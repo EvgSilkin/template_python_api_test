@@ -1,7 +1,7 @@
 import allure
 import requests
 
-from utils.Logger import Logger
+from utils.logger import Logger
 
 
 class Http_methods():
